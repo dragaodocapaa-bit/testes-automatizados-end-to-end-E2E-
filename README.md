@@ -1,5 +1,6 @@
 Testes da Tela de Cadastro (cadastro.html)
 
+
 A tela de Cadastro passa por uma série de testes E2E utilizando Cypress para validar o comportamento dos campos, regras de validação e fluxo de cadastro.
 
 Cenários de teste implementados
