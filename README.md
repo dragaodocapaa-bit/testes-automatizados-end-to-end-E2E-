@@ -49,13 +49,13 @@ Deve exibir alerta: "Cadastro realizado com sucesso!"
 
 Deve redirecionar para (login.html)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 *** Testes da Tela Home (home.html) ***
 
 A página Home é estática, portanto os testes garantem a presença correta dos elementos visuais e navegáveis.
 
-✔ Cenários de teste implementados
+ Cenários de teste implementados
 1. Navbar deve ser exibida corretamente
 
 Confere:
